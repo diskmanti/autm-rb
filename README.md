@@ -1,22 +1,19 @@
-# Autm-rb
+# My personal Github page
 
-Another theme for jekyll.
+My personal [github page](https://diskmanti.github.com). Build with [Jekyll](http://jekyllrb.com/) and [Autm-rb](https://github.com/kirqe/autm-rb). Thanks to [kirqe](https://github.com/kirqe).
 
-## [DEMO][demo]
 
-## Customization
+## Thanks
 
-Edit **_config.yml** and files inside **_data/** before using
+[pages](http://pages.github.com)
 
-## Screens
+[idea](https://github.com/kirqe)
 
-![](screenshots/home.png)
-![](screenshots/post.png)
 
 ## Licensing
 
 [MIT](https://github.com/railsr/autm-rb/blob/master/LICENSE)
 
-[pages]: http://pages.github.com
-[fork]: https://github.com/railsr/autm-rb/fork
-[demo]: http://kirqe.github.io/autm-rb/
+[fork](https://github.com/railsr/autm-rb/fork)
+
+[demo](http://kirqe.github.io/autm-rb/)
