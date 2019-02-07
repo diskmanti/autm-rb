@@ -1,5 +1,5 @@
 baseurl: "" # The subpath of your site. Use "" if you're hosting a blog at the root level.
-url: "harta.xyz" # the base hostname & protocol for your site.
+url: "diskmanti.github.io" # the base hostname & protocol for your site.
 repository: "diskmanti/diskmanti.github.io"
 
 paginate: 6 #articles per page
@@ -23,7 +23,7 @@ disqus:
 google:
     tracking-id: "UA-77148426-1" #your tracking id here
 
-gems:
+plugins:
   - jekyll-sitemap
   - jekyll-paginate
   - jemoji
