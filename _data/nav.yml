@@ -10,3 +10,5 @@ items:
     path: '/feed.xml'
   - text: 'Tools'
     path: '/tools'
+  - text: 'Presentations'
+    path: '/presentations'
